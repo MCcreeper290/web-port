@@ -21,7 +21,7 @@ all games are hosted on https://gn-math.github.io
 [bog/aukak](https://github.com/aukak):
 - Milkman Karlson
 
-[Me](https://github.com/genizy): 
+[Genizy](https://github.com/genizy): 
 - Amanda the Adventurer
 - Andy's Apple Farm
 - BFDI: Branches
